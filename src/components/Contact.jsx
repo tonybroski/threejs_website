@@ -7,7 +7,6 @@ import { EarthCanvas } from "./canvas";
 
 import { SectionWrapper } from "../hoc";
 import { slideIn } from "../utils/motion";
-import { use } from "i18next";
 
 const Contact = () => {
   const formRef = useRef();
